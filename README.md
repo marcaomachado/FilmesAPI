@@ -1,6 +1,7 @@
 "# FilmesAPI" 
 
 Programas necessários:
+
 Visual Studio : https://visualstudio.microsoft.com/pt-br/downloads/
 
 MySql : https://dev.mysql.com/downloads/windows/installer/5.7.html
