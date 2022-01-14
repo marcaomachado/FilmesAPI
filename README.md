@@ -1,6 +1,6 @@
 # Construindo uma API Rest com .Net 5
 
-## Programas:
+## Programas
 
 ### Visual Studio : https://visualstudio.microsoft.com/pt-br/downloads/
 
