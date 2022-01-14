@@ -1,18 +1,12 @@
-"# FilmesAPI" 
+# Construindo uma API Rest com .Net 5
+
+## Programas:
+
+### Visual Studio : https://visualstudio.microsoft.com/pt-br/downloads/
 
 
-Programas necessários:
-
-Visual Studio : https://visualstudio.microsoft.com/pt-br/downloads/
---
-
-MySql : https://dev.mysql.com/downloads/windows/installer/5.7.html
---
-
-Postman : https://www.postman.com/downloads/
---
-
-Instalando o MySql:
+### MySql : https://dev.mysql.com/downloads/windows/installer/5.7.html
+#### Instalando o MySql:
 - Abrir o executavel
 - Selecionar Custom
 - Marcar somente as opções da imagem abaixo
@@ -22,9 +16,13 @@ Instalando o MySql:
 - Definir Login e Senha
 - Next... Finish.
 
+### Postman : https://www.postman.com/downloads/
 
 
-Pacotes Necessários e como instalá-los:
+
+
+## Pacotes Necessários e como instalá-los
+No visual studio vá em:
   - Ferramentas
   - Gerenciados de Pacotes do NuGet
   - Gerenciar Pacotes do NuGet para a Solução...
