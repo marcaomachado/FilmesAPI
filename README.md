@@ -29,6 +29,7 @@ No visual studio vá em:
     1. Microsoft.EntityFrameworkCore
     2. Microsoft.EntityFrameworkCore.Tools
     3. MySql.EntityFrameworkCore
+    4. Automapper.extensions.microsoft.dependencyinjection
 
 
 ## Fazendo Migrations:
