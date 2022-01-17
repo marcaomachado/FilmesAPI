@@ -16,18 +16,8 @@
 - Definir Login e Senha
 - Next... Finish.
 
-#### Fazendo Migrations:
-No visual studio vá em:
-  - Ferramentas
-  - Gerenciados de Pacotes do NuGet
-  - Console do Gerenciador de Pacotes:
-    - Add-Migration AlgumNomeParaEssaAção;
-    - Update-Database
-
 
 ### Postman : https://www.postman.com/downloads/
-
-
 
 
 ## Pacotes Necessários e como instalá-los
@@ -39,3 +29,12 @@ No visual studio vá em:
     1. Microsoft.EntityFrameworkCore
     2. Microsoft.EntityFrameworkCore.Tools
     3. MySql.EntityFrameworkCore
+
+
+## Fazendo Migrations:
+No visual studio vá em:
+  - Ferramentas
+  - Gerenciados de Pacotes do NuGet
+  - Console do Gerenciador de Pacotes:
+    - Add-Migration AlgumNomeParaEssaAção;
+    - Update-Database
